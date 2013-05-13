@@ -1,6 +1,6 @@
 hackforwesternma-docs
 =====================
 
-Documentation, flyers, presentations, and organizing material for HackForWesternMA
+Go here for an overview of hackforwesternmass, our [wiki], as well as documentation, flyers, presentations, and organizing material for HackForWesternMA
 
-For more information, see our [github-based wiki](https://github.com/hackforwesternmass/hackforwesternma-docs/wiki), or visit the website at [hackforwesternmass.org](http://hackforwesternmass.org)
+For more information, you can also visit the website at [hackforwesternmass.org](http://hackforwesternmass.org)
