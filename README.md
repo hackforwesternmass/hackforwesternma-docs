@@ -7,6 +7,10 @@ Repository for project ideas, documentation, related resources, and design mater
 
 - For more information (and to add your own ideas), please visit our  [wiki](https://github.com/hackforwesternmass/hackforwesternma-docs/wiki), as well as documentation, flyers, presentations, and organizing material for HackForWesternMA
 
+### Documents
+
+You'll find posters, flyers, and press releases associated with the June 1st HackForWesternMass event (associated with the National Day of Civic Hacking), here.
+
 ### Project ideas
 
 Check out some of the project ideas we've already started discussing [here](https://github.com/hackforwesternmass/hackforwesternma-docs/wiki), as well as documentation, flyers, presentations, and organizing material for HackForWesternMA
