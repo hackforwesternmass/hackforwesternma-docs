@@ -7,6 +7,7 @@ Repository for project ideas, documentation, related resources, and design mater
 
 For more information (and to add your own ideas), please visit our  [wiki](https://github.com/hackforwesternmass/hackforwesternma-docs/wiki).  Contributions welcome!
 
+To join the Hack for Westernmass github organization, please [open a ticket](https://github.com/hackforwesternmass/hackforwesternma-docs/issues/new?title=Please%20add%20me%20to%20the%20group&body=Thank%20you)
 ### Documents
 
 Here you'll find posters, flyers, and press releases associated with the June 1st [HackForWesternMass](http://hackforwesternmass.org) event.  This event is affiliated with the [National Day of Civic Hacking](http://hackforchange.org).
