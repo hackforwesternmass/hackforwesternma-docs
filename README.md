@@ -10,20 +10,18 @@ For more information (and to add your own ideas), please visit our  [wiki](https
 To join the Hack for Westernmass github organization, please [open a ticket](https://github.com/hackforwesternmass/hackforwesternma-docs/issues/new?title=Please%20add%20me%20to%20the%20group&body=Thank%20you)
 ### Documents
 
-Here you'll find posters, flyers, and press releases associated with the June 1st [HackForWesternMass](http://hackforwesternmass.org) event.  This event is affiliated with the [National Day of Civic Hacking](http://hackforchange.org).
+Here you'll find posters, flyers, and press releases associated with [HackForWesternMass](http://hackforwesternmass.org).  This annual event is affiliated with the [National Day of Civic Hacking](http://hackforchange.org).
 
 ### Project ideas
 
-Check out the [challenge projects for the June 1st event](http://hackforwesternmass.org/challenges).  
+Check out the [challenge projects for the event](http://hackforwesternmass.org/challenges).  
 
 Challenge teams are encouraged to [use HackPad](https://hackforchange.hackpad.com/HACK-FOR-WESTERN-MASS-1ZyQneaq3Wp) to document the projects so that others can follow the progress that is being made.
-
-Discussion on some projects has also been started on [the github wiki](https://github.com/hackforwesternmass/hackforwesternma-docs/wiki)
 
 
 ### Events
 
-Come to the June 1st, 2013 HackForWesternMass event in Amherst!  More information at: [hackforwesternmass.org](http://hackforwesternmass.org)
+Come to the June 6th-8th, 2014 HackForWesternMass event in Amherst!  More information at: [hackforwesternmass.org](http://hackforwesternmass.org).  The event last year on June 1st, 2013 was a great success.  You can read about these projects [here](http://hackforwesternmass.org/2013/challenges). 
 
 ### Contact
 
