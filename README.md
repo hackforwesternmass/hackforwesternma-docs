@@ -21,7 +21,7 @@ Challenge teams are encouraged to [use HackPad](https://hackforchange.hackpad.co
 
 ### Events
 
-Come to the June 6th-8th, 2014 HackForWesternMass event in Amherst!  More information at: [hackforwesternmass.org](http://hackforwesternmass.org).  The event last year on June 1st, 2013 was a great success.  You can read about these projects [here](http://hackforwesternmass.org/2013/challenges). 
+Come to the June 6th-8th, 2014 Hack for Western Mass event in Holyoke!  More information at: [hackforwesternmass.org](http://hackforwesternmass.org).  The event last year on June 1st, 2013 was a great success.  You can read about the 2013 projects [here](http://hackforwesternmass.org/2013/challenges). 
 
 ### Contact
 
